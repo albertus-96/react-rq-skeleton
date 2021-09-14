@@ -1,4 +1,4 @@
-# CDC KERJAIN FRONTEND
+# React Query Skeleton
 
 
 This project was generated with the help of [superplate](https://github.com/pankod/superplate) & React-Create App.
